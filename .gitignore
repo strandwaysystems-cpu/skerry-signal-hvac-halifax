@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.DS_Store
+.env
+.env.*
+static_site_audit.json
+*_findings.md
